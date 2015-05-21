@@ -1,8 +1,9 @@
 body { 
-
+    
 }
 
 .content-container { 
+    border: 5px solid green;
     background-image: url('../img/Invitation2.png');
     background-size: 100%;    
     width: 800px;
@@ -47,4 +48,8 @@ body {
     height: 120px;
     //border: 1px solid black;
     overflow: hidden;
+}
+
+.ss-top-of-page { 
+    display: none;   
 }
